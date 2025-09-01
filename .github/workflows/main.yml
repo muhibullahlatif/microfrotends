@@ -1,4 +1,4 @@
-name: main-container-app
+name: container-app-deployment
 
 on:
   push:

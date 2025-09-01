@@ -1,4 +1,4 @@
-name: main-marketing-app
+name: marketing-app-deployment
 
 on:
   push:
